@@ -1,0 +1,3 @@
+第一個實際練習的obsidian plugin
+主要練習掛載到Obsidian 軟體中
+僅供練習使用
